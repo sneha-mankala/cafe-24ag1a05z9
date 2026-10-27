@@ -5,9 +5,9 @@ Coffee 38
 Tea 25
 Juice 40
 3. Created experiment branch.
-4. Added ice.txt and tax.txt in seperate commits.
+4. Added ice.txt and tax.txt in separate commits.
 5. Cherry-picked the Add tax note commit into fix/tax-note.
 6. Pushed fix/tax-note to origin.
 7. Created and merged pull requests for the completed changes.
 8. Final tax.txt content:
-Price includes applicabla taxes
+Price includes applicable taxes
