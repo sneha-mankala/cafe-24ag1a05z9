@@ -1,1 +1,3 @@
-printf "Tea 20\nCoffee 38\nSandwich 50\n"
+Tea 20
+Coffee 38
+Sandwich 50
