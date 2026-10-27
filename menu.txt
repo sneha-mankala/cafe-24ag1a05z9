@@ -1,0 +1,1 @@
+printf "Tea 20\nCoffee 38\nSandwich 50\n"
